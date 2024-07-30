@@ -1,0 +1,9 @@
+Factory Method: Este metodo nos ayuda a reutilizar clases y luego utilizarlas de manera polimorfica. Tambien otra de las funciones
+del patron factory es de que varios factorys pueden seguir a la misma interfaz, ya que todas ellas pueden heredar de una misma abstraccion.
+
+Abstract Factory: Es el patron de diseño que provee una interfície para crear familias de objetos relacionados o despendencias sin
+especificar su clase concreta. En otras palabras, es un escenario que permite usar un patron creacional familias relacionados o
+independientes.
+
+La creación directa de objetos nos ayuda a que se mas facil realizar los cambios, a ocultar detalles, a que tenga mas flexibilidad nuestro codigo, a
+darle un mejor mantenimiento a nuestros proyectos mas adelante y facilita las pruebas.
